@@ -66,5 +66,6 @@ Setelah dilatih kembali dengan hyperparameter terbaik, kedua model dievaluasi pa
 *Hyperparameter tuning* terbukti memberikan **peningkatan performa yang signifikan**. Dibandingkan dengan model dasar (tanpa tuning) dari tugas sebelumnya, nilai RMSE dan MAE dari kedua model berhasil diturunkan secara drastis, menunjukkan kesalahan prediksi yang lebih kecil.
 
 -   **GRU** dengan hyperparameter yang telah dioptimalkan menunjukkan performa prediksi terbaik dengan nilai **RMSE 1241.18**.
--   
+
+
 Proyek ini menegaskan bahwa otomatisasi *hyperparameter tuning* adalah langkah krusial dalam membangun model *deep learning* yang andal dan akurat untuk data *time-series*.
