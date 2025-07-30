@@ -61,8 +61,6 @@ Setelah dilatih kembali dengan hyperparameter terbaik, kedua model dievaluasi pa
 | **LSTM (Tuned)** | 1408.00 | 1081.89 |
 | **GRU (Tuned)** | 1241.18 | 927.58 |
 
-![Grafik Prediksi](https://i.imgur.com/k2e4xQc.png)
-
 ## Kesimpulan
 
 *Hyperparameter tuning* terbukti memberikan **peningkatan performa yang signifikan**. Dibandingkan dengan model dasar (tanpa tuning) dari tugas sebelumnya, nilai RMSE dan MAE dari kedua model berhasil diturunkan secara drastis, menunjukkan kesalahan prediksi yang lebih kecil.
